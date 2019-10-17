@@ -9,8 +9,7 @@ The package was partly funded by the Global institute for Water Security (GIWS; 
 # Authors
 
 Coded and maintained by: Salma Hobbi<br />
-Conceptual design by: Salma Hobbi, Chandra Rupa Rajulapati and Simon Michael Papalexiou 
-
+Conceptual design by: Salma Hobbi, Chandra Rupa Rajulapati and Simon Michael Papalexiou<br />
 Beta tested by: Salma Hobbi, Chandra Rupa Rajulapati and Simon Michael Papalexiou
 
 # References
