@@ -12,9 +12,6 @@ Coded and maintained by: Salma Hobbi
 Conceptual design by: Salma Hobbi, Chandra Rupa Rajulapati and Simon Michael Papalexiou
 Beta tested by: Salma Hobbi, Chandra Rupa Rajulapati and Simon Michael Papalexiou
 
-## A
+# References
 
-### B
-
-[ffd](https://cran.r-project.org/web/packages/CoSMoS/index.html)
-
+Papalexiou, S.M., 2018. Unified theory for stochastic modelling of hydroclimatic processes: Preserving marginal distributions, correlation structures, and intermittency. Advances in Water Resources 115, 234-252. https://doi.org/10.1016/j.advwatres.2018.02.013
